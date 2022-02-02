@@ -5,7 +5,9 @@
 public Book{
 	String title;
 	int pageCount;
+
 	Integer thing;
+	Double thing;
 
 
 	public Book(String title, int pageCount){
