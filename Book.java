@@ -5,6 +5,8 @@
 public Book{
 	String title;
 	int pageCount;
+	Integer thing;
+
 
 	public Book(String title, int pageCount){
 		this.title = title;
